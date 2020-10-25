@@ -1,7 +1,14 @@
+body {
+  background-color: black;
+}
+
 .App {
   text-align: center;
 }
-
+svg {
+  display: block;
+  margin: 0 auto;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
